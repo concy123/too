@@ -271,7 +271,7 @@ class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
                         QtWidgets.QMessageBox.information(self, "Tips", self.tr('当前账号：  ' + pfid1 + "   \n道具名称为    " + li6 + "  \n道具类型为 " + li3 + "\n增加数量为  " + numid + "  个"))
 
     def liveid(self):
-        pfid2 = self.lineEdit_11.text()
+        pfid2 = self.lineEdit_9.text()
 
         if pfid2 == '':
             QtWidgets.QMessageBox.information(self, "Tips", self.tr("账号不能为空"))
