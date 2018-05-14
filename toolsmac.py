@@ -169,7 +169,7 @@ class Ui_MainWindow(object):
         self.pushButton_6.setText(_translate("MainWindow", "确定"))
         self.label_9.setText(_translate("MainWindow", "开播的live_id"))
         self.pushButton_7.setText(_translate("MainWindow", "复制live_id"))
-        self.label_10.setText(_translate("MainWindow", "请输入查询用户信息的fpid"))
+        self.label_10.setText(_translate("MainWindow", "请输入查询用户信息的pfid"))
         self.label_11.setText(_translate("MainWindow", "用户性别"))
         self.label_12.setText(_translate("MainWindow", "用户登录账号"))
         self.pushButton_8.setText(_translate("MainWindow", "确定"))

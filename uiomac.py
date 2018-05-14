@@ -484,9 +484,9 @@ class MainWindow(QtWidgets.QMainWindow, Ui_MainWindow):
             self.table.verticalHeader().setVisible(False)
             self.table.setEditTriggers(QTableWidget.NoEditTriggers)
 
-            self.table.setColumnWidth(0, 30)
-            self.table.setColumnWidth(3, 30)
-            self.table.setColumnWidth(6, 30)
+            self.table.setColumnWidth(0, 45)
+            self.table.setColumnWidth(3, 45)
+            self.table.setColumnWidth(6, 45)
             self.table.setColumnWidth(1, 80)
             self.table.setColumnWidth(4, 80)
             self.table.setColumnWidth(7, 80)
