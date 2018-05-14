@@ -1,6 +1,6 @@
 import sys
 from PyQt5.QtWidgets import QApplication
-from uio import MainWindow
+from uiomac import MainWindow
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
