@@ -38,7 +38,7 @@ class Ui_MainWindow(object):
         self.label_2.setGeometry(QtCore.QRect(800, 50, 150, 25))
         self.label_2.setObjectName("label_2")
         self.lineEdit_3 = QtWidgets.QLineEdit(self.centralwidget)
-        self.lineEdit_3.setGeometry(QtCore.QRect(1000, 50, 210, 25))
+        self.lineEdit_3.setGeometry(QtCore.QRect(1000, 50, 250, 25))
         self.lineEdit_3.setObjectName("lineEdit_3")
         self.pushButton = QtWidgets.QPushButton(self.centralwidget)
         self.pushButton.setGeometry(QtCore.QRect(1300, 50, 150, 25))
